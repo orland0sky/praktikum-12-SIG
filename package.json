@@ -1,0 +1,16 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "> **Dosen:** Mochamad T. Zein, M.Kom   > **Topik:** Analisis Spasial Lanjut — Machine Learning Spasial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
